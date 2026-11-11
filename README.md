@@ -21,6 +21,8 @@ Es importante aclarar que este proyecto es un ejercicio académico. No sirve par
 - `requirements.txt`: lista las librerías que se necesitan.
 - `artefactos/`: guarda el modelo entrenado, las métricas, los rangos de las variables y los datos limpios.
 
+## Aplicación pública: https://proyecto-streamli-dvarela8.streamlit.app
+
 ## Cómo ejecutar el proyecto
 
 Primero abre una terminal en la carpeta del proyecto y ejecuta:
