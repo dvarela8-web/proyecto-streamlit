@@ -1,0 +1,152 @@
+{
+  "mean_radius": {
+    "min": 6.981,
+    "max": 28.11,
+    "mediana": 13.34
+  },
+  "mean_texture": {
+    "min": 9.71,
+    "max": 39.28,
+    "mediana": 18.9
+  },
+  "mean_perimeter": {
+    "min": 43.79,
+    "max": 188.5,
+    "mediana": 86.18
+  },
+  "mean_area": {
+    "min": 143.5,
+    "max": 2501.0,
+    "mediana": 546.4
+  },
+  "mean_smoothness": {
+    "min": 0.06251,
+    "max": 0.1634,
+    "mediana": 0.09524
+  },
+  "mean_compactness": {
+    "min": 0.01938,
+    "max": 0.3454,
+    "mediana": 0.09228
+  },
+  "mean_concavity": {
+    "min": 0.0,
+    "max": 0.4268,
+    "mediana": 0.0594
+  },
+  "mean_concave_points": {
+    "min": 0.0,
+    "max": 0.2012,
+    "mediana": 0.03334
+  },
+  "mean_symmetry": {
+    "min": 0.106,
+    "max": 0.304,
+    "mediana": 0.1799
+  },
+  "mean_fractal_dimension": {
+    "min": 0.05024,
+    "max": 0.09744,
+    "mediana": 0.0613
+  },
+  "radius_error": {
+    "min": 0.1115,
+    "max": 2.873,
+    "mediana": 0.3274
+  },
+  "texture_error": {
+    "min": 0.3602,
+    "max": 4.885,
+    "mediana": 1.139
+  },
+  "perimeter_error": {
+    "min": 0.757,
+    "max": 21.98,
+    "mediana": 2.31
+  },
+  "area_error": {
+    "min": 6.802,
+    "max": 542.2,
+    "mediana": 24.87
+  },
+  "smoothness_error": {
+    "min": 0.001713,
+    "max": 0.03113,
+    "mediana": 0.006261
+  },
+  "compactness_error": {
+    "min": 0.002252,
+    "max": 0.1064,
+    "mediana": 0.02016
+  },
+  "concavity_error": {
+    "min": 0.0,
+    "max": 0.396,
+    "mediana": 0.02586
+  },
+  "concave_points_error": {
+    "min": 0.0,
+    "max": 0.05279,
+    "mediana": 0.01091
+  },
+  "symmetry_error": {
+    "min": 0.007882,
+    "max": 0.07895,
+    "mediana": 0.0187
+  },
+  "fractal_dimension_error": {
+    "min": 0.0008948,
+    "max": 0.02984,
+    "mediana": 0.003131
+  },
+  "worst_radius": {
+    "min": 7.93,
+    "max": 36.04,
+    "mediana": 14.92
+  },
+  "worst_texture": {
+    "min": 12.02,
+    "max": 49.54,
+    "mediana": 25.48
+  },
+  "worst_perimeter": {
+    "min": 50.41,
+    "max": 251.2,
+    "mediana": 97.65
+  },
+  "worst_area": {
+    "min": 185.2,
+    "max": 4254.0,
+    "mediana": 683.4
+  },
+  "worst_smoothness": {
+    "min": 0.07117,
+    "max": 0.2226,
+    "mediana": 0.1311
+  },
+  "worst_compactness": {
+    "min": 0.02729,
+    "max": 1.058,
+    "mediana": 0.2167
+  },
+  "worst_concavity": {
+    "min": 0.0,
+    "max": 1.252,
+    "mediana": 0.2298
+  },
+  "worst_concave_points": {
+    "min": 0.0,
+    "max": 0.291,
+    "mediana": 0.101
+  },
+  "worst_symmetry": {
+    "min": 0.1565,
+    "max": 0.6638,
+    "mediana": 0.2823
+  },
+  "worst_fractal_dimension": {
+    "min": 0.05504,
+    "max": 0.2075,
+    "mediana": 0.08009
+  }
+}
